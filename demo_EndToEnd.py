@@ -22,6 +22,7 @@ def launch_browser(driver):
     #driver.get("https://rahulshettyacademy.com/seleniumPractise/#/offers")
     #driver.get("https://the-internet.herokuapp.com/iframe")
     #driver.maximize_window()
+    print("testGIT")
 
 launch_browser(driver)
 
